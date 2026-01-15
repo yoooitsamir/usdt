@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "A USDT-like TRC-20 token on TRON",
+  "image": "https://github.com/my-usdt.png",
+  "decimals": 6
+}
