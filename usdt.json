@@ -1,7 +1,7 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "description": "A USDT-like TRC-20 token on TRON",
+  "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
   "image": "https://github.com/my-usdt.png",
   "decimals": 6
 }
