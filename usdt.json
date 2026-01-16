@@ -1,7 +1,11 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "description": "USDT is the official stablecoin issued by Tether on the TRON network.",
-  "image": "https://raw.githubusercontent.com/yoooitsamir/usdt/refs/heads/main/usdt.png",
-  "decimals": 6
+  "description": "A test USD-pegged token for teaching",
+  "image": "https://raw.githubusercontent.com/yoooitsamir/usdt/main/usdt.png",
+  "external_url": "https://yourproject.com",
+  "attributes": [
+    { "trait_type": "Type", "value": "Fungible Token" },
+    { "trait_type": "Network", "value": "Devnet" }
+  ]
 }
