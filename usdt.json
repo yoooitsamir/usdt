@@ -2,10 +2,10 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "A test USD-pegged token for teaching",
-  "image": "https://raw.githubusercontent.com/yoooitsamir/usdt/refs/heads/main/usdt.png",
+  "image": "https://raw.githubusercontent.com/yoooitsamir/usdt/refs/heads/main/usdtv2.png",
   "external_url": "https://yourproject.com",
   "attributes": [
     { "trait_type": "Type", "value": "Fungible Token" },
-    { "trait_type": "Network", "value": "Devnet" }
+    { "trait_type": "Network", "value": "mainnet-beta" }
   ]
 }
